@@ -18,6 +18,7 @@ To simplify real estate management and ownership tracking by leveraging the tran
 ## ⚙️ Contract Details
 
 ### Contract Address: CBRG334FDZUPK7X73BVWOT7LMY6TWHHGHHYD3WYADUEAKYA343T4Q6LK
+![alt text](image.png)
 
 ### 1. `register_property(owner, location, size_sqft) -> property_id`
 Creates a new property record on the blockchain.
